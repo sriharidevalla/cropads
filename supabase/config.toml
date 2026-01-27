@@ -1,0 +1,7 @@
+project_id = "wtquahmucuopxbylemaa"
+
+[functions.analyze-crop]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
