@@ -76,7 +76,7 @@ Be specific to ${cropType} crop diseases. Common diseases include:
 - Wheat: Powdery Mildew, Rust (Leaf/Stem/Stripe), Septoria, Fusarium Head Blight, Tan Spot
 - Cotton: Bacterial Blight, Verticillium Wilt, Fusarium Wilt, Cotton Leaf Curl Virus, Alternaria Leaf Spot
 - Citrus: Citrus Canker, Greening (HLB), Melanose, Anthracnose, Phytophthora Root Rot
-- Pepper/Chili: Bacterial Spot, Anthracnose, Powdery Mildew, Mosaic Virus, Phytophthora Blight
+- Chilli: Bacterial Spot, Anthracnose, Powdery Mildew, Mosaic Virus, Phytophthora Blight, Leaf Curl
 - Cucumber: Downy Mildew, Powdery Mildew, Angular Leaf Spot, Anthracnose, Cucumber Mosaic Virus
 - Strawberry: Gray Mold (Botrytis), Powdery Mildew, Leaf Spot, Verticillium Wilt, Angular Leaf Spot
 
