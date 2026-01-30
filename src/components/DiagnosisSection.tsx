@@ -14,7 +14,7 @@ const crops = [
   { id: "rice", name: "Rice" },
   { id: "wheat", name: "Wheat" },
   { id: "cotton", name: "Cotton" },
-  { id: "citrus", name: "Citrus" },
+  { id: "orange", name: "Orange" },
   { id: "chilli", name: "Chilli" },
   { id: "cucumber", name: "Cucumber" },
   { id: "strawberry", name: "Strawberry" },
