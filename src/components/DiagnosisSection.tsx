@@ -15,7 +15,7 @@ const crops = [
   { id: "wheat", name: "Wheat" },
   { id: "cotton", name: "Cotton" },
   { id: "citrus", name: "Citrus" },
-  { id: "pepper", name: "Pepper/Chili" },
+  { id: "chilli", name: "Chilli" },
   { id: "cucumber", name: "Cucumber" },
   { id: "strawberry", name: "Strawberry" },
 ];
