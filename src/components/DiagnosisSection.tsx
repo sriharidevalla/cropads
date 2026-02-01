@@ -10,7 +10,7 @@ const crops = [
   { id: "potato", name: "Potato" },
   { id: "grape", name: "Grape" },
   { id: "apple", name: "Apple" },
-  { id: "maize", name: "Maize/Corn" },
+  { id: "maize", name: "Corn" },
   { id: "rice", name: "Rice" },
   { id: "wheat", name: "Wheat" },
   { id: "cotton", name: "Cotton" },
